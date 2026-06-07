@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Almafuerte</title>
+  <link rel="icon" href="assets/media/iconos/logo.jpg" type="image/x-icon" />
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/estilo.css" />
+  <link href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" rel="stylesheet"/>
+</head>
+<header class="menu-header">
+  <div class="container">
+    <div class="row">
+      <div class="contenedor">
+        <nav class="menu text-center texto-color">
+          <ul>
+            <li class="botones-menu"><a href="index.html"><bold>Inicio</bold></a></li>
+            <li class="botones-menu"><a href="informatica.html">Informática</a></li>
+            <li class="botones-menu"><a href="construcciones.html">Construcciones</a></li>
+            <li class="botones-menu"><a href="electromecanica.html">Electromecánica</a></li>
+            <li class="botones-menu"><a href="basico.html">Ciclo Básico</a></li>
+            <li class="botones-menu"><a href="contacto.html">Contacto</a></li>
+            <button class="darkmode-btn" onclick="toggleTheme()">🌙</button>
+          </ul>
+        </nav>
+      </div>
+      <img class="logo-contacto" src="assets/media/iconos/logo_withoutbackground_circled.png" alt="">
+      </div>
+    </div>
+  </header>
+  <section>
+    <div class="row">
+      <div class="col-lg-12 texto-header text-center fade-in visible">
+        <h1>E.E.S.T. N°8 "Almafuerte"</h1>
+        <p>
+          "Hacia el desarrollo en salud de nuestra juventud, el avance
+          intelectual por el ejercicio del pensamiento y la formacion integral
+          de la persona por la maduración de sus sentimientos"
+        </p>
+        <span class="boton-inscripcion">
+                <a href="contacto.html"><button class="btn btn-primary">¡ESCRIBINOS Y RESERVÁ TU LUGAR AHORA!</button></a>
+            </span>
+      </div>
+    </div>
+  </section>
+</header>
+
+<body>
+  <main>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="row fade-up">
+              <div class="col-lg ">
+                <h2 class="texto-color">HISTORIA DE LA ESCUELA</h2>
+                <p class="texto-color">
+                  La Escuela Técnica Nº 8 “Almafuerte” de Lanús Oeste nació en 1909 como Escuela Nº 42 en Avellaneda y, tras la creación del municipio de <underline>Lanús en 1944</underline> pasó a ser la Nº 8. En 1968 se mudó al edificio actual de <underline>Jean Jaurés 749</underline> y con el tiempo incorporó especialidades como <bold>Informática</bold>, <bold>Maestro Mayor de Obras</bold> y <bold>Electromecánica</bold>. Con más de un siglo de trayectoria y más de 800 alumnos, es hoy un referente educativo y técnico de la región.
+                </p>
+              </div>
+            </div>
+            <div class="row fade-up">
+              <div class="col-lg texto-color">
+                <h4>HISTORIA DE LOS DIRECTIVOS</h4>
+                <p>Los directivos de la tecnica secundaria tecnica Almafuerte N°8 fueron:</p>
+                <p>Itoshi Takeda, Isabel Corrado, Marcela Villalba y Gustavo Mauro. Este ultimo asumió en 2014</p>
+              </div>
+            </div>
+          </div>
+          <div class=" col-lg-6">
+            <div class="row fade-up visible texto-color">
+              <h3 >EQUIPO DIRECTIVO</h3>
+              <div class="col-lg-3 contenedor-retratos text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="cara7" data-theme-img
+                  onclick="showPopup('Director: Castro Gustavo','Nacio en el año 1976, estudio su primaria en Santiago del Estero, su secundaria y profesorados en Buenos Aires. Es profesor de educación fisíca, maestro de grado y de adultos. Se convirtio en director en el año 2014.')">
+                <label for="cara6">Director</label>
+              </div>
+              <div class="col-lg-3 text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="caramujer1" data-theme-img
+                  onclick="showPopup('Vicedirectora: Romina Missart Antonio','Posee post titulo en formacion docente y es abogada. Su deseo es garantizar las proyecciones de los estudiantes y que terminen el secundario con exito.')">
+                <label for="cara6">Vicedirectora</label>
+              </div>
+              <div class="col-lg-3 text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="caramujer2" data-theme-img
+                  onclick="showPopup('Vicedirectora: Graciela Sirman', 'Nació en 1979. Realizó sus estudios primarios en la Escuela N°15 de Avellaneda y cursó la secundaria en la Técnica N°3, donde descubrió su interés por las ciencias. Más tarde completó el profesorado en Química en el Instituto Superior Olga Cossettini, especializándose en didáctica de laboratorio. Ingresó al colegio en 2006 como profesora de Química y rápidamente se destacó por su compromiso con la formación científica de los estudiantes. A lo largo de su trayectoria impulsó proyectos de investigación escolar y actividades experimentales. En 2020 asumió el cargo de vicedirectora, con el objetivo de fortalecer la calidad institucional y promover espacios donde los estudiantes puedan desarrollar curiosidad, pensamiento crítico y responsabilidad académica')">
+                <label for="cara6">Vicedirectora</label>
+              </div>
+              <div class="col-lg-3 text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="cara8" data-theme-img
+                  onclick="showPopup('Vicedirectora: Luciana Mongabure','Nacio el 23 de octubre de 1983. Estudio la primaria en la N°28 de lanus y la secundaria en la Media N°4. El profesorado lo estudio en el instituto superior Joaquin B. Gonzales. Asumio el cargo en agosto de 2025. Esta en el colegio desde 2007.')">
+                <label for="cara6">Vicedirectora</label>
+              </div>
+            </div>
+            <div class="row fade-up visible texto-color">
+              <div class="col-lg-3 contenedor-retratos text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="cara1" data-theme-img
+                  onclick="showPopup('Jorge', 'Oficina de estuidiantes.')">
+                <label for="cara6">Oficina de estudiantes</label>
+              </div>
+              <div class="col-lg-3 text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="cara2" data-theme-img
+                  onclick="showPopup('Jefe de Area: Ariel Fernandez','Nacio en 1970, estudio en la primaria N°8, hizo la secundaria en la ENET 2 (Actualmente tecnica N°8). El profesorado docente en los 2000. Asumio de jefe de area en 2018.')">
+                <label for="cara6">Jefe de area</label>
+              </div>
+              <div class="col-lg-3 text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="cara3" data-theme-img
+                  onclick="showPopup('Jefe de Area: David Bustamante','Nacio en 1981, estudio la primaria en la escuela N°21 y la secundaria en la ENET 2 (actualmente tecnica 8) Posee una tecnicatura superior electromecanica y profesorado de electromecanica. Asumio jefe de area el 27 de septiembre de 2021.')">
+                <label for="cara6">Jefe de area</label>
+              </div>
+              <div class="col-lg-3 text-center">
+                <img class="retratos" src="assets/media/iconos/default.png" alt="cara4" data-theme-img
+                  onclick="showPopup('Jefa de Preceptores: Genoveba Filippelli', 'Estudió en la ENET 2 (actualmente tecnica 8) Posee una tecnicatura superior electromecanica y profesorado de electromecanica. Asumio jefe de area el 27 de septiembre de 2021')">
+                <label for="cara6">Jefa de Preceptores</label>
+              </div>
+            </div>
+          </div>
+
+          
+          <!-- Popup -->
+          <div class="popup" id="popup">
+            <div class="popup-content">
+              <span class="close" id="closePopup">×</span>
+              <h2 id="popupTitle"></h2>
+              <p id="popupText"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Galeria de imagenes 📸📸-->
+    <section>
+            <div class="container" style="margin-top: 5%;">
+                <div class="row fade-up ">
+                    <div class="contenedor texto-color text-center">
+                        <h2>NUESTRAS ACTIVIDADES</h2>
+                        <div class="image-body">
+                            <div class="contenedor-galeria">
+                                <div class="galeria">
+                                    <div class="contenedor-imagen">
+                                        <figure>
+                                            <img src="assets/media/img/galeria/img1.jpg">
+                                        </figure>
+                                    </div>
+                                    <div class="contenedor-imagen">
+                                        <figure>
+                                            <img src="assets/media/img/galeria/img2.jpg">
+                                        </figure>
+                                    </div>
+                                    <div class="contenedor-imagen">
+                                        <figure>
+                                            <img src="assets/media/img/galeria/img3.jpeg">
+                                        </figure>
+                                    </div>
+                                    <div class="contenedor-imagen">
+                                        <figure>
+                                            <img src="assets/media/img/galeria/img4.jpeg">
+                                        </figure>
+                                    </div>
+                                    <div class="contenedor-imagen">
+                                        <figure>
+                                            <img src="assets/media/img/galeria/img5.jpeg">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+                <div class="container">
+                  <div class="row fade-up">
+                    <div class="col-lg text-center texto-color">
+                      <h2>📍¿Donde estamos ubicados?</h2>
+      <iframe src="https://www.google.com/maps/embed?pb=!3m2!1ses-419!2sar!4v1761607972936!5m2!1ses-419!2sar!6m8!1m7!1sxxFnSFeT1OXa3aIk-8Ib_w!2m2!1d-34.68708914108871!2d-58.38931732688038!3f23.093988439859686!4f3.174875844928536!5f0.7820865974627469" width="1000" height="600" style="border:0;" allowfullscreen="" loading="fast" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                  </div>
+                </div>
+        <div class="container" style="margin-top: 5%;">
+            <div class="row">
+                <div class="col-lg-5 fade-up">
+                    <img src="assets/media/img/informatica.jpg" class="modalidades" width="100%" alt="informatica" >
+                </div>
+                <div class="col-lg-7 texto-color fade-up">
+                    <h1>INFORMÁTICA</h1>
+            <p>La especialidad brinda una formación integral orientada al perfil de <bold>Técnico en Informática Profesional y Personal</bold>. El egresado de esta modalidad está capacitado para asistir al usuario de productos y servicios informáticos, brindándole soporte en la instalación y configuración de equipos, la capacitación en el uso de programas y la organización de sus archivos, así como en la resolución de problemas que se presentan en la operatoria cotidiana. Además, adquiere conocimientos para resguardar y proteger la integridad de los datos mediante copias de seguridad y herramientas antivirus, realizar diagnósticos de fallas, efectuar tareas de mantenimiento preventivo y optimizar el ambiente informático de trabajo. <underline>La formación incluye la instalación y puesta en marcha de componentes, sistemas y redes</underline>, integrando nuevos recursos a los ya existentes y resolviendo las incompatibilidades que puedan surgir.
+            </p>
+            <p>También se desarrollan habilidades en el armado de equipos y el asesoramiento en la compra de productos y servicios tecnológicos, a partir del análisis de requerimientos y presupuestos. A su vez, los alumnos reciben preparación en el desarrollo o adaptación de programas que complementen funcionalidades de software, con el fin de responder a necesidades específicas del usuario. Un aspecto central de esta orientación es la autogestión profesional, que impulsa al futuro técnico a planificar su tiempo, actualizarse de manera permanente y desenvolverse en forma independiente, actuando como un nexo entre el especialista y el usuario final. De esta manera, <bold>el egresado de la <italic>EEST Nº 8</italic> se forma como un profesional con sólida preparación técnica, práctica y ética</bold> siendo capaz de insertarse en el ámbito laboral, emprender proyectos propios o continuar estudios superiores en el campo de la informática.
+            </p>
+                </div>
+            </div>
+            <div class="row fade-up visible" style="margin-top: 5%;" id="#electromecanica">
+                <div class="col-lg-7 texto-color fade-up">
+                    <h1>ELECTROMECÁNICA</h1>
+            <p>La especialidad prepara a los estudiantes para desempeñarse como Técnicos del sector Electromecánico, formados en conocimientos, habilidades y valores que les permiten actuar con profesionalidad y responsabilidad social en distintos ámbitos de trabajo. El egresado cuenta con las competencias necesarias para proyectar equipos e instalaciones mecánicas, electromecánicas, neumáticas, oleohidráulicas y eléctricas, incluyendo circuitos de control y automatismos, así como herramientas y dispositivos específicos. Además, posee la capacidad de realizar ensayos de materiales y pruebas eléctricas, mecánicas y electromecánicas, garantizando la calidad y seguridad de los procesos. Su formación incluye la operación de equipos, instalaciones y máquinas herramientas, así como la ejecución de mantenimientos predictivos, preventivos, funcionales y correctivos en componentes y sistemas electromecánicos. También está preparado para montar dispositivos y componentes, instalar líneas de distribución de energía eléctrica de baja y media tensión, y brindar asesoramiento en la selección y comercialización de equipamiento e instalaciones. Esta orientación fomenta el espíritu emprendedor, permitiendo que los egresados puedan generar proyectos propios además de desempeñarse en relación de dependencia en áreas de producción, mantenimiento, desarrollo, gestión o laboratorios. 
+            </p>
+            <p>A lo largo de su trayectoria, el futuro técnico desarrolla la capacidad de interpretar definiciones estratégicas, gestionar y controlar actividades hasta su concreción, siempre teniendo en cuenta criterios de seguridad, impacto ambiental, productividad, calidad y buenas relaciones humanas. De esta manera, <bold>el egresado en Electromecánica de la EEST Nº 8 se constituye en un profesional versátil y altamente demandado</bold>, capaz de integrarse a un mercado laboral dinámico y en constante evolución tecnológica.
+            </p>            
+                </div>
+                <div class="col-lg-5">
+                    <img src="assets/media/img/electromecanica.jpg" class="modalidades" width="100%" alt="informatica" >
+                    
+                </div>
+            </div>
+            <div class="row fade-up visible" style="margin-top: 5%;">
+                <div class="col-lg-5">
+                    <img src="assets/media/img/const.jpg" class="modalidades" width="100%" alt="informatica" >
+                </div>
+                <div class="col-lg-7 texto-color fade-up">
+                    <h1>MAESTRO MAYOR DE OBRAS</h1>
+            <p>La especialidad ofrece una formación completa orientada a preparar profesionales capaces de desenvolverse en el ámbito de la <bold>construcción con responsabilidad social y criterio técnico</bold>. El egresado está capacitado para analizar las necesidades de un cliente y transformarlas en un programa de requerimientos, elaborando anteproyectos que contemplen soluciones espaciales, edilicias, constructivas y técnicas. A partir de esos lineamientos, puede proyectar obras concretas que respondan a los objetivos planteados, integrando funcionalidad, seguridad y estética. Asimismo, cuenta con la preparación necesaria para dirigir la ejecución de procesos constructivos en general, gestionando y administrando los recursos humanos, materiales y técnicos involucrados en cada etapa de la obra. Su formación lo habilita también para brindar asesoramiento y servicios de evaluación técnica a terceros, aportando conocimientos sólidos que contribuyen al éxito de proyectos de pequeña, mediana o gran envergadura.
+            </p>
+            <p> <underline>La orientación impulsa además valores de organización, responsabilidad y compromiso con la comunidad</underline>, formando profesionales con capacidad de liderazgo y decisión. De esta manera, el egresado como Maestro Mayor de Obras se encuentra preparado tanto para insertarse en el ámbito laboral y empresarial de la construcción como para emprender proyectos propios o continuar estudios superiores relacionados con la arquitectura y la ingeniería.
+            </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- POPO UP ACAA -->
+    <div class="popup" id="popup">
+      <div class="popup-content">
+        <span class="close" id="closePopup">&times;</span>
+        <h2 id="popupTitle"></h2>
+        <p id="popupText"></p>
+      </div>
+    </div>
+    <footer class="text-center mt-4 mb-3 texto-color">
+    <hr>
+    <p>© Escuela Técnica N.º 8 “Almafuerte” - Lanús Oeste</p>
+    <button id="backToTop" class="back-to-top" style="display: block;">↑</button>
+  </footer>
+  <script src="assets/js/miMap.js"></script>
+  <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+  <script src="assets/js/dark&WhiteTheme.js"></script>
+  <script src="assets/js/f5_toTop.js"></script>
+  <script src="assets/js/fade-up.js"></script>
+  <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/menuFixed.js"></script>
+  <script src="assets/js/popup.js"></script>
+  <script src="assets/js/toTop.js"></script>
+
+</body>
+
+</html>

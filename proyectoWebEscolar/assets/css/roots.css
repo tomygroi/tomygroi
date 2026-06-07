@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: var(--background-primario);
+    font-family: SignikaNegativeR;
+}
+
+
+:root {
+
+--background-header: linear-gradient(90deg, #4f9cff 0%, #1b6eff 100%);
+--background-primario: linear-gradient(90deg, #c9edff, #caf4ff);
+--background-secundario: #599bfe;
+--background-terciario: #dce9ff;
+--texto-primario: #0a1a2f;
+--texto-secundario: #4a4a4a;
+--background: #ffffff;
+--sombra: rgba(0, 0, 0, .75);
+
+
+--background-header-dark: linear-gradient(90deg, #50a5e7 0%, #247ba0 100%);
+--background-primario-dark: linear-gradient(90deg, #002667, #284774);
+--background-secundario-dark: #104d7c;
+--background-terciario-dark: #3d7ea6;
+--texto-primario-dark: #f7fbff;
+--texto-secundario-dark: #d8e6f2;
+--background-dark: #2e2e2d;
+--sombra-dark: rgba(186, 186, 186, 0.5);
+}
+
+bold {
+    font-family: SignikaNegativeB;
+}
+
+underline {
+    text-decoration: underline;
+}
+
+italic {
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SignikaNegativeB';
+    src: url(../fuentes/SignikaNegative-Bold.ttf)
+}
+
+@font-face {
+    font-family: 'SignikaNegativeR';
+    src: url(../fuentes/SignikaNegative-Regular.ttf);
+}
+
+@font-face {
+    font-family: WinkyR;
+    src: url("../fuentes/WinkyRough-Regular.ttf");
+}
+
+@font-face {
+    font-family: WinkyB;
+    src: url("../fuentes/WinkyRough-Bold.ttf");
+}
