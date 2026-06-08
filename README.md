@@ -5,7 +5,7 @@ Bienvenido a mi portfolio de proyectos. En este espacio documento las aplicacion
 Actualmente estoy estudiando Ingeniero en Sonido e Iluminación y a futuro sere Profesor de Informatica 😊
 
 ## ¿Qué se hacer y cúal es mi experiencia laboral?
-- Tengo un Nivel C1 en Ingles: Estudie desde 2017 - 2020. Y retome luego de 2022 - 2024
+- Tengo un Nivel C2 en Ingles: Estudie desde 2017 - 2020. Y retome luego de 2022 - 2025
 - Estudie y me especialice en *Data Analysys en Python* en 2024
 - He trabajado como *sonidista* y en el *backstage team* en la [**E.E.S.T. N°8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/) y en la [**E.E.S.T. N° 5 "John F. Kennedy"**](https://www.eest5lanus.edu.ar/) por los años 2024 y 2025
 - Como *Técnico Informatico* continuo trabajando de manera autonoma en Servicio Técnico
