@@ -5,14 +5,15 @@ Bienvenido a mi portfolio de proyectos. En este espacio documento las aplicacion
 
 ### 🛠️ Stack de Tecnología e Infraestructura del Proyecto
 
-Aquí están las tecnologías clave utilizadas para el despliegue, almacenamiento, conectividad y desarrollo de este entorno:
+Aquí están las tecnologías clave utilizadas para el despliegue, almacenamiento, conectividad y desarrollo en todos mis proyectos:
 
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
 | **DevOps & Infraestructura** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Servicios de Red & Directorio** | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white) ![DNS](https://img.shields.io/badge/DNS_Server-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-56347C?style=flat-square&logo=tailscale&logoColor=white) |
+| **Servicios de Red, Seguridad & Directorio** | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white) ![DNS](https://img.shields.io/badge/DNS_Server-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-56347C?style=flat-square&logo=tailscale&logoColor=white) |
 | **Almacenamiento & Multimedia** | ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) ![Immich](https://img.shields.io/badge/Immich-1473E6?style=flat-square&logo=photos&logoColor=white) |
 | **Servidores de Aplicaciones** | ![Payara](https://img.shields.io/badge/Payara_Server-FF5000?style=flat-square&logo=payara&logoColor=white) |
+| **Programación de Sistemas & Bajo Nivel** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | **Desarrollo Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Desarrollo Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
