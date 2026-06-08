@@ -5,7 +5,7 @@ Bienvenido a mi portfolio de proyectos. En este espacio documento las aplicacion
 Actualmente estoy estudiando Ingeniero en Sonido e Iluminación y a futuro sere Profesor de Informatica 😊
 
 ## ¿Cúal es mi experiencia laboral?
-- He trabajado como *sonidista* y en el equipo del *backstage* en la [**E.E.S.T. N°8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/) y en la [**E.E.S.T. N° 5 "John F. Kennedy"**](https://www.eest5lanus.edu.ar/) por los años 2024 y 2025
+- He trabajado como *sonidista* y en el *backstage team* en la [**E.E.S.T. N°8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/) y en la [**E.E.S.T. N° 5 "John F. Kennedy"**](https://www.eest5lanus.edu.ar/) por los años 2024 y 2025
 - Como *Técnico Informatico* continuo trabajando de manera autonoma en Servicio Técnico
 
 ### 🛠️ Stack de Tecnología e Infraestructura del Proyecto
