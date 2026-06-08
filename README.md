@@ -25,6 +25,3 @@ Aca están las tecnologías clave utilizadas para el despliegue, almacenamiento,
 
 ### 📁Proyectos
 Web Escolar: [**📝 Repositorio**](https://github.com/tomygroi/proyectoWebEscolar) | [**🔗 Página**](https://tomygroi.github.io/proyectoWebEscolar/)
-
-//| **Contactame** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:groitomy@gmail.com?subject=Consulta%20sobre%20Proyecto%20Web) |
-//| **Más Links** | |
