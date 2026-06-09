@@ -31,4 +31,4 @@ Web Escolar: [**📝 Repositorio**](https://github.com/tomygroi/proyectoWebEscol
 
 Cuestionario Los Simpsons: [**📝 Repositorio**](https://github.com/tomygroi/cuestionario-LosSimpsons) | [**🔗 Página**](https://tomygroi.github.io/cuestionario-LosSimpsons/)
 
-Mi Servidor NAS: ***⚙🛠 Working On...*** [~~📝 Repositorio~~](https://github.com/tomygroi/miServidor)
+Mi Servidor NAS: ***⚙🛠 Working On...*** [📝 Repositorio](https://github.com/tomygroi/miServidor)
