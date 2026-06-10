@@ -1,19 +1,19 @@
 # **🔹 Facundo Tomás Groizard 🔹**
 Bienvenido a mi portfolio de proyectos. En este espacio documento las aplicaciones y sitios web que he diseñado y desarrollado, detallando la arquitectura del código, las tecnologías utilizadas y los desafíos técnicos resueltos en cada uno de ellos.
 
-## ¿Qué aspiro a ser?
-Actualmente estoy estudiando Ingeniero en Sonido e Iluminación y a futuro sere Profesor de Informatica 😊
+## ¿Cuáles son mis aspiraciones profesionales?
+Actualmente estoy estudiando **Ingeniería en Sonido e Iluminación** y, a futuro, seré **Profesor de Informática** 😊
 
-## ¿Qué se hacer y cúal es mi experiencia laboral?
-- Tengo un Nivel C2 en Ingles: Estudie desde 2017 - 2020. Y retome luego de 2022 - 2025
-- Estudie y me especialice en *Data Analysys en Python* en 2024
-- Recibido como Técnico Informatico en la [**E.E.S.T. N°8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/)
-- He trabajado como *sonidista* y en el *backstage team* en la [**E.E.S.T. N°8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/) y en la [**E.E.S.T. N° 5 "John F. Kennedy"**](https://www.eest5lanus.edu.ar/) por los años 2024 y 2025
-- Como *Técnico Informatico* continuo trabajando de manera autonoma en Servicio Técnico
+## ¿Qué sé hacer y cuál es mi experiencia laboral?
+- **Nivel C2 de Inglés:** Estudié durante los períodos 2017 - 2020 y 2022 - 2025.
+- Me especialicé en **Data Analysis en Python** en 2024.
+- Recibido como **Técnico Informático** en la [**E.E.S.T. N° 8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/).
+- He trabajado como *sonidista* y en el *backstage team* en la [**E.E.S.T. N° 8 "Almafuerte"**](http://www.tecnica8lanus.edu.ar/) y en la [**E.E.S.T. N° 5 "John F. Kennedy"**](https://www.eest5lanus.edu.ar/) durante los años 2024 y 2025.
+- Como *Técnico Informático*, continúo trabajando de manera autónoma en Servicio Técnico.
 
 ### 🛠️ Stack de Tecnología e Infraestructura de Mis Proyectos
 
-Aca están las tecnologías clave utilizadas para el despliegue, almacenamiento, conectividad y desarrollo en todos mis proyectos:
+Acá están las tecnologías clave utilizadas para el despliegue, almacenamiento, conectividad y desarrollo en todos mis proyectos:
 
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Aca están las tecnologías clave utilizadas para el despliegue, almacenamiento,
 | **Desarrollo Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Desarrollo Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-### 💻Proyectos
+### 💻 Proyectos
 Web Escolar: [**📝 Repositorio**](https://github.com/tomygroi/proyectoWebEscolar) | [**🔗 Página**](https://tomygroi.github.io/proyectoWebEscolar/)
 
 Cuestionario Los Simpsons: [**📝 Repositorio**](https://github.com/tomygroi/cuestionario-LosSimpsons) | [**🔗 Página**](https://tomygroi.github.io/cuestionario-LosSimpsons/)
