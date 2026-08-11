@@ -31,4 +31,4 @@ Web Escolar: [**📝 Repositorio**](https://github.com/tomygroi/proyectoWebEscol
 
 Cuestionario Los Simpsons: [**📝 Repositorio**](https://github.com/tomygroi/cuestionario-LosSimpsons) | [**🔗 Página**](https://tomygroi.github.io/cuestionario-LosSimpsons/)
 
-Mi Servidor NAS: [📝 Repositorio](https://github.com/tomygroi/miServidor) [**📁 Nextcloud**](https://nextcloud.taild0da07.ts.net/) [**🖼️ Imnich**](https://server.taild0da07.ts.net/)
+Mi Servidor NAS: [📝 Repositorio](https://github.com/tomygroi/miServidor) | [**🔗📁 Nextcloud**](https://nextcloud.taild0da07.ts.net/) [**🔗🖼️ Imnich**](https://server.taild0da07.ts.net/)
