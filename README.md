@@ -29,6 +29,8 @@ Acá están las tecnologías clave utilizadas para el despliegue, almacenamiento
 ### 💻 Proyectos
 Web Escolar: [**📝 Repositorio**](https://github.com/tomygroi/proyectoWebEscolar) | [**🔗 Página**](https://tomygroi.github.io/proyectoWebEscolar/)
 
+Api Local | Students Sistem: [**📝 Repositorio**](https://github.com/tomygroi/students-backend) | [**🔗 Página**](https://tomygroi.github.io/students-frontend/)
+
 Cuestionario Los Simpsons: [**📝 Repositorio**](https://github.com/tomygroi/cuestionario-LosSimpsons) | [**🔗 Página**](https://tomygroi.github.io/cuestionario-LosSimpsons/)
 
 Mi Servidor NAS: [📝 Repositorio](https://github.com/tomygroi/miServidor) | [**🔗📁 Nextcloud**](https://nextcloud.taild0da07.ts.net/) [**🔗🖼️ Imnich**](https://server.taild0da07.ts.net/)
